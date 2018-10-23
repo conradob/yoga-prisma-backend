@@ -1,0 +1,23 @@
+bower_components
+node_modules
+dist
+
+.env
+.*.sw*
+*.log
+*.map
+.haste_cache
+jsconfig.json
+
+mocha.json
+build.metadata.json
+
+backups/*
+volumes/*
+
+.DS_Store
+
+### IDE Configs ###
+.idea
+.vscode/*
+.history
